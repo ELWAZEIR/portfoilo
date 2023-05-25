@@ -8,7 +8,6 @@ export default function Contact() {
   return (
     <>
     <Nav/>
-    <Hero2 heading="CONTACT" text="Lets has a chat"/>
     <Form/>
     <Footer/>
     </>

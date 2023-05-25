@@ -8,7 +8,7 @@ const projectCardData = [
     title: 'Ecommerce Website Design',
     text:
       'Ecommerce is a method of buying and selling goods and services online. The definition of ecommerce business can also include tactics like affiliate marketing.',
-    View: 'https://elwazeir.github.io/angularf/',
+    View: 'https://angularf-iota.vercel.app/',
     git: 'https://github.com/ELWAZEIR/angularf.git',
   },
   {
@@ -17,7 +17,7 @@ const projectCardData = [
     title: 'responsive Website Design',
     text:
       'It is simply to make the site that you built fit all screens in an organized manner, and you have modified an existing site and made it better than it by using html css bootstrap ',
-    View: 'https://elwazeir.github.io/Car/',
+    View: 'https://car-lime.vercel.app/',
     git: 'https://github.com/ELWAZEIR/Car.git',
   },
   {
@@ -26,7 +26,7 @@ const projectCardData = [
     title: 'NetFlix Website Design',
     text:
       'It is a travel agency website on the Internet to deposit reservations and savings for a large number of homes, hotels, flights, rented cars, taxis and tourist attractions.',
-    View: 'https://elwazeir.github.io/Netflix-/',
+    View: 'https://netflix-w1mn-git-main-elwazeir.vercel.app/',
     git: 'https://github.com/ELWAZEIR/Netflix-.git',
   },
   {
@@ -35,7 +35,7 @@ const projectCardData = [
     title: 'WeatherAPP Website Design',
     text:
       'It is a travel agency website on the Internet to deposit reservations and savings for a large number of homes, hotels, flights, rented cars, taxis and tourist attractions.Plan the perfect trip',
-    View: 'https://elwazeir.github.io/WeatherApp/',
+    View: 'https://weather-app-5eov.vercel.app/',
     git: 'https://github.com/ELWAZEIR/WeatherApp.git',
   },
   {
@@ -49,13 +49,14 @@ const projectCardData = [
   },
   {
     imgSrc:
-    'https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
+      'https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
     title: 'To-Do-List Website Design',
     text:
       'It is a travel agency website on the Internet to deposit reservations and savings for a large number of homes, hotels, flights, rented cars, taxis and tourist attractions.Plan the perfect trip',
     View: 'https://elwazeir.github.io/to-do-list/',
     git: 'https://github.com/ELWAZEIR/to-do-list.git',
   },
+  
 ]
 
 export default projectCardData

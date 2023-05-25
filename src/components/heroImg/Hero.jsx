@@ -10,7 +10,7 @@ export default function Hero() {
         <img className="intro-img" src={introImg} alt="" />
       </div>
       <div className="content">
-        <p>HI, I'M FRONTEND DEVELOPER</p>
+        <p>HI, I'M Front-End  Developer</p>
         <h1>React Developer</h1>
         <div>
             <Link to="/project" className='btn'>Project</Link>

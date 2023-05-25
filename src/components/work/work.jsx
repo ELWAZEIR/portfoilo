@@ -5,7 +5,7 @@ import WorkCard from '../workCard/WorkCard'
 const Work = () => {
   return (
     <>
-      <h1 className="project-heading">Projects</h1>
+      <h1 className="project-heading" style={{margin:'1px'}}>Projects</h1>
       <div className="projects-container">
         {WorkData.map((val, ind) => {
           return (
